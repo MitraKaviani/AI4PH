@@ -8,6 +8,7 @@ Dataset Structure
     Data Source: Death certificates
     Time Frame: 1980 and 2019
     Columns: Age and rank order, cause of death, number of deaths for both 1980 and 2019
+    The dataset includes data based on death certificates and is structured to compare data between 1980 and 2019. The first few rows contain headers and explanatory notes, which suggests that      the actual data starts further down in the spreadsheet. The columns are organized to show age and rank order, cause of death, and the number of deaths for both years (1980 and 2019).            However, the actual data entries for these categories aren't visible in the first few rows. It seems that this kind of data is typically used in public health to analyze trends in mortality     over time, identify major health risks, and inform policy and healthcare priorities.
 
 Note: The first few rows contain headers and explanatory notes. The actual data starts further down, necessitating an adjustment in data loading.
 Objective
